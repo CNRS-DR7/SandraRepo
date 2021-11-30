@@ -8,6 +8,8 @@ class Sphere(object):
         #self.radius = radius
         pass
 
+    #Ajout Sandra
+
     # *** STEP 2 ***
     # uncomment the following 2 lines
     #def __str__(self):
